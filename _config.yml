@@ -1,0 +1,33 @@
+# Dependencies
+markdown:         redcarpet
+highlighter:      pygments
+
+# Permalinks
+permalink:        pretty
+relative_permalinks: true
+
+# Setup
+title:            GDG Francisco Beltrão
+tagline:          ''
+description:      'Compartilhamos ideias, criamos conhecimento.'
+logo:             /assets/GDG_square_lg.png
+url:              http://hyde.getpoole.com
+baseurl:          /
+
+author:
+  name:           'GDG Francisco Beltrão'
+  url:            https://twitter.com/gdg_fb
+
+# avatar
+avatar  :
+  - id  :         mitrut
+    name:         'Wellington Mitrut'
+    url :         http://www.gravatar.com/avatar/278d0b5b8f680ac2a39bb3d8a6e21be3.png?s=80
+
+paginate:         5
+
+# Custom vars
+version:          2.1.0
+
+github:
+  repo:           https://github.com/gdg-fb
