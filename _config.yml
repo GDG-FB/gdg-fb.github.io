@@ -50,7 +50,7 @@ rightNavigationButtons:
  - {link: "http://goo.gl/forms/BjrVuXKCGV", text: "Venha fazer parte!"}
 
 # Hero Block
-heroImage: "hero.jpg"
+heroImage: "hero2.jpg"
 heroTitle: "GDG Francisco Beltrão é <typeout>"
 eventDate: ""
 typeoutTextValues: '"", "Tecnologia", "Comunidade", "Inspiração", "Design", "Transformação"'
@@ -107,7 +107,7 @@ venueTitle: "Kinopalace Cinema"
 venueFeatures: ["3 huge cinema screens", "Doulby Digital Surround EX audio system", "Located directly in the city center"]
 
 # Tweets Feed Block
-tweetsFeedImage: "twitter-feed.jpg"
+tweetsFeedImage: "twitter-feed2.jpg"
 tweetsFeedTitle: "Siga-nos no twitter: "
 twitterHashTag: "gdg_fb"
 
