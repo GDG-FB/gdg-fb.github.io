@@ -61,9 +61,9 @@ heroButtons:
 # About Block
 aboutTitle: "O que é o GDG Francisco Beltrão?"
 aboutBlock:
- - {title: "Meetups", image: "conference.jpg", text: "The biggest Google related event in the country carefully crafted for you by GDG community! Awesome speakers and lots of fun!" }
- - {title: "Workshops", image: "workshop.jpg", text: "Full-day of workshops, hands-on experience, hacking and debugging. Come and tame your favourite technology!" }
- - {title: "Hackathons", image: "hackathon.jpg", text: "Full-day freestyle hackathon! Want some real team building on friday? Grab your team and join our hackathon!" }
+ - {title: "Meetups", image: "conference.jpg", text: "Palestras e networking sobre as principais tecnologias Google, com palestrantes especialistas e muita diversão" }
+ - {title: "Workshops", image: "workshop.jpg", text: "Encontros e Fins de semana de aprendizado prático, mão na massa para fazer coisas legais e úteis" }
+ - {title: "Hackathons", image: "hackathon.jpg", text: "Hackathons em parceria com as mais diversas instituições para transformar a nossa realidade com o uso da tecnologia!" }
 
 # Statistic Block
 statisticBlockImage: "statistic.jpg"
@@ -80,7 +80,7 @@ latestNewsTitle: "Destaques no blog!"
 rockstarSpeakersImage: "rockstar-speakers.jpg"
 rockstarSpeakersCount: 4
 rockstarSpeakersTitle: "Quem torna isso possível?"
-rockstarSpeakersButtonText: "See all speakers"
+rockstarSpeakersButtonText: "Veja mais sobre a equipe"
 
 # Location Block
 locationBlockTitle: "Nossa casa"
