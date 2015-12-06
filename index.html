@@ -1,47 +1,20 @@
 ---
 layout: default
-title: Blog
+permalink: /
 ---
 
-<div class="posts">
-  {% for post in paginator.posts %}
-  <div class="post">
-    <h1 class="post-title">
-      <a href="{{ post.url }}">
-        {{ post.title }}
-      </a>
-    </h1>
+ {% include hero.html %}
 
-    {{ post.content | strip_html | truncatewords: 50 }}
+ {% include about.html %}
 
-    {% for avatar in site.avatar %}
-      {% if post.avatar == avatar.id  %}
-        <footer class="post-meta" >
-          <img alt="Author image" src="{{ avatar.url }}" class="author-thumb" >
-          <a href="#" >{{ avatar.name }}</a>
-          <span class="post-date post-date2">{{ post.date | date_to_string }}</span>
-        </footer>
-      {% endif %}
-    {% endfor %}
+ {% include statistic.html %}
 
-    <p><a href="{{ post.url }}">Continue lendo &rarr;</a></p>
-  </div>
-  {% endfor %}
-</div>
+ {% include latest-news.html %}
 
-<div class="pagination">
-  {% if paginator.next_page %}
-    <a class="pagination-item older" href="{{ site.baseurl }}page{{paginator.next_page}}">Anterior</a>
-  {% else %}
-    <span class="pagination-item older">Anterior</span>
-  {% endif %}
-  {% if paginator.previous_page %}
-    {% if paginator.page == 2 %}
-      <a class="pagination-item newer" href="{{ site.baseurl }}">Próximo</a>
-    {% else %}
-      <a class="pagination-item newer" href="{{ site.baseurl }}page{{paginator.previous_page}}">Próximo</a>
-    {% endif %}
-  {% else %}
-    <span class="pagination-item newer">Próximo</span>
-  {% endif %}
-</div>
+ {% include rockstar-speakers.html %}
+
+ {% include location-map.html %}
+
+ {% include venue.html %}
+
+ {% include twitter-feed.html %}
