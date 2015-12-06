@@ -12,25 +12,24 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 # Site Settings
 title: "GDG Francisco Beltrão"
 email: "gdgfranciscobeltrao@gmail.com"
-description: "GDG DevFest is a set of events all around the world"
+description: "O GDG Francisco Beltrão é uma comunidade focada em tecnologias Google"
 baseurl: ""
 url: "https://gdg-fb.github.io"
 permalink: "/blog/:title"
-googleAnalyticsTrackingId: "UA-43643469-5"
-googleAnalyticsSiteUrl: "gdg-x.github.io"
-siteVerification: "b9imDOrFawXaBXCC4r3uJDdswSYcalD-wWpMYhFq-no"
+googleAnalyticsTrackingId: "UA-71096222-1"
+googleAnalyticsSiteUrl: "gdg-fb.github.io"
 
 # Organizer Info
-organizerName: "GDG Lviv"
-organizerAlternateName: "Google Developer Group Lviv"
-organizerDescription: "Open and volunteer geek communities who create exciting projects and share experience about Google technology with passion."
-organizerEmail: "lviv@gdg.org.ua"
+organizerName: "GDG Francisco Beltrão"
+organizerAlternateName: "Google Developer Group Francisco Beltrão"
+organizerDescription: "Uma comunidade aberta de geeks voluntários que criam projetos interessantes e compartilham experiências sobre as tecnologia do Google com paixão."
+organizerEmail: "gdgfranciscobeltrao@gmail.com"
 organizerLogo: "/img/seo/organizer-logo.png"
-organizerLink: "http://lviv.gdg.org.ua/"
+organizerLink: "http://gdg-fb.github.io/"
 
 # Head
-metaKeywords: "event, gdg, devfest, google, programming, android, chrome, developers, lviv"
-twitterAccount: "@DevFest"
+metaKeywords: "gdg, Francisco Beltrão, Beltrão, google, programming, android, chrome, developers, paraná, sudoeste"
+twitterAccount: "@gdg_fb"
 socialImageSrcGooglePlus: "/img/seo/sharing-google-plus.png"
 socialImageSrcTwitter: "/img/seo/sharing-twitter.png"
 socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
@@ -44,7 +43,7 @@ c4sponsorsUrl: "/assets/GDG_DevFest_Partnership.pdf"
 navigationLinks:
  - {permalink: "/", text: "Home"}
  - {permalink: "/blog/", text: "Blog"}
- - {permalink: "/team/", text: "Team"}
+ - {permalink: "/team/", text: "Equipe"}
 bottomNavigationLinks:
  - {link: "https://bit.ly/dfua-c4p", text: "Venha fazer parte!"}
 rightNavigationButtons:
@@ -55,7 +54,7 @@ heroImage: "hero.jpg"
 heroTitle: "GDG Francisco Beltrão é <typeout>"
 eventDate: ""
 typeoutTextValues: '"", "Tecnologia", "Comunidade", "Inspiração", "Design", "Transformação"'
-typeoutFallback: "Season"
+typeoutFallback: "Transformação"
 heroButtons:
  - {link: "https://bit.ly/dfua-c4p", text: "Venha fazer parte!"}
 
@@ -86,12 +85,11 @@ rockstarSpeakersButtonText: "See all speakers"
 # Location Block
 locationBlockTitle: "Nossa casa"
 eventLocationName: "CITFBE - Centro de Inovação e Tecnologia de Francisco Beltrão"
-eventLocationLink: "http://cabinet.kinopalace.lviv.ua/showtimes/"
-eventStreetAddress: "22 Teatral'na St"
-eventAddressLocality: "Lviv"
-eventAddressLocalityRegion: "Lvivska"
-eventPostalCode: "79000"
-eventAddressCountry: "Ukraine"
+eventStreetAddress: "R. Ten. Camargo - Luther King,"
+eventAddressLocality: "Francisco Beltrão"
+eventAddressLocalityRegion: "PR"
+eventPostalCode: "00"
+eventAddressCountry: "Brasil"
 eventStartTime: "2016-10-25T10:00"
 eventDoorTime: "09:00"
 eventEndTime: "2014-10-25T20:00"
@@ -110,7 +108,7 @@ venueFeatures: ["3 huge cinema screens", "Doulby Digital Surround EX audio syste
 
 # Tweets Feed Block
 tweetsFeedImage: "twitter-feed.jpg"
-tweetsFeedTitle: "What's Up?"
+tweetsFeedTitle: "Siga-nos no twitter: "
 twitterHashTag: "gdg_fb"
 
 # Partners Block
