@@ -35,7 +35,7 @@ socialImageSrcTwitter: "/img/seo/sharing-twitter.png"
 socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
 
 # Documents
-c4pUrl: "https://bit.ly/dfua-c4p"
+c4pUrl: "http://goo.gl/forms/BjrVuXKCGV"
 c4sponsorsUrl: "/assets/GDG_DevFest_Partnership.pdf"
 
 
@@ -45,9 +45,9 @@ navigationLinks:
  - {permalink: "/blog/", text: "Blog"}
  - {permalink: "/team/", text: "Equipe"}
 bottomNavigationLinks:
- - {link: "https://bit.ly/dfua-c4p", text: "Venha fazer parte!"}
+ - {link: "http://goo.gl/forms/BjrVuXKCGV", text: "Venha fazer parte!"}
 rightNavigationButtons:
- - {link: "https://bit.ly/dfua-c4p", text: "Venha fazer parte!"}
+ - {link: "http://goo.gl/forms/BjrVuXKCGV", text: "Venha fazer parte!"}
 
 # Hero Block
 heroImage: "hero.jpg"
@@ -56,7 +56,7 @@ eventDate: ""
 typeoutTextValues: '"", "Tecnologia", "Comunidade", "Inspiração", "Design", "Transformação"'
 typeoutFallback: "Transformação"
 heroButtons:
- - {link: "https://bit.ly/dfua-c4p", text: "Venha fazer parte!"}
+ - {link: "http://goo.gl/forms/BjrVuXKCGV", text: "Venha fazer parte!"}
 
 # About Block
 aboutTitle: "O que é o GDG Francisco Beltrão?"
@@ -166,27 +166,27 @@ ticketsOffers:
 
 # Footer
 socialLinks:
- - {link: "https://plus.google.com/b/102444623953913144164", icon: "google-plus"}
- - {link: "https://twitter.com/intent/user?screen_name=GDGLviv", icon: "twitter"}
- - {link: "https://facebook.com/GDGLviv", icon: "facebook"}
+ - {link: "https://plus.google.com/102178819169878551962", icon: "google-plus"}
+ - {link: "https://twitter.com/gdg_fb", icon: "twitter"}
+ - {link: "https://www.facebook.com/GDG-Francisco-Beltr%C3%A3o-449389415208060/?pnref=lhc", icon: "facebook"}
  - {permalink: "/feed.xml", icon: "rss"}
 footerBlocks:
  -
   title: "Links"
   links:
-   - {link: "http://gdg.org.ua", text: "GDG.org.ua"}
+   - {link: "http://gdg0fb.github.io", text: "GDG FB"}
    - {link: "https://developers.google.com", text: "Google Developers"}
  -
   title: "Contacts"
   links:
-   - {link: "mailto:lviv@gdg.org.ua", text: "lviv@gdg.org.ua"}
+   - {link: "mailto:gdgfranciscobeltrao@gmail.com", text: "Nosso email."}
  -
   title: "FAQ"
   links:
-   - {permalink: "/cod/", text: "Code of Conduct"}
+   - {permalink: "/cod/", text: "Código de Conduta"}
 
 # Blog
-blogTitle: "Latest news"
+blogTitle: "Blog"
 blogCommentsEnabled: true
 discusShortName: "devfestua"
 
@@ -194,8 +194,8 @@ discusShortName: "devfestua"
 showSessions: true
 
 # Team Block
-teamBlockTitle: "About us"
-aboutUs: "Google's services have become synonymous with simple things online. Number of technological innovations and IT industries in which Google is creating new products is enormous. It's hard to get to know all of them, but realistic. This is why people have started to gather in small local groups and share their experience. Later, the following groups have been called Google Developer Groups. GDGs can take many forms -- from just a few people getting together to watch some videos, to large gatherings with demos, tech talks, hackathons and conferences."
+teamBlockTitle: "Sobre nós"
+aboutUs: "As tecnologias Google se tornaram sinônimo de coisas simples. O Google está criando todos os dias novos produtos cujas inovações tecnológicas e industriais de TI são enormes. É difícil conhecer todas elas. É por isso que as pessoas começaram a se reunir em pequenos grupos locais e partilhar a sua experiência. Mais tarde, os seguintes grupos foram chamados de GDGs, ou grupos de desenvolvedores do Google. GDGs pode assumir muitas formas - a partir de apenas algumas pessoas se reunindo para assistir alguns vídeos, ou até mesmo grandes encontros com demonstrações, palestras técnicas, hackathons e conferências. DISCLAIMER: O GDG Fco. Beltrão é um grupo independente; nossas atividades e as opiniões aqui expressas não devem, de forma alguma, ser ligadas ao Google."
 
 # Logistics Find Way Block
 findWayTitle: "Find your way here"
