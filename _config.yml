@@ -188,7 +188,7 @@ footerBlocks:
 # Blog
 blogTitle: "Blog"
 blogCommentsEnabled: true
-discusShortName: "devfestua"
+discusShortName: "gdgfb"
 
 # Speakers List Block
 showSessions: true
