@@ -1,30 +1,41 @@
 ---
 layout: post
-title:  "Hello World!"
-date:   2014-07-21 08:00:00
+title:  "Hello World!(de novo!)"
+date:   2015-12-15 08:00:00
 isStaticPost: false
 ---
 
-We're very excited - not just because of the inordinate amount of caffeine based products consumed - 
-but also because our team are putting together 
-the final missing parts to the biggest Google related event in Ukraine - [GDG DevFest 2014](http://devfest.gdg.org.ua/). 
+Olá, sim, mudamos o GDG Francisco Beltrão e agora é para a melhor. Lançamos o site hoje para que você nos acompanhe, teremos agora textos constantemente por aqui, onde iremos divulgar nossas ações e eventos, além de materiais inéditos para você.
 
-This year event will take place in cultural capital of Ukraine - Lviv. Being a unique European city in Ukraine, Lviv is among top 10 cities of the world to visit in 2014 according to the travel group “The Rough Guide” and is among top 10 cities for spending weekends in Europe according to Lonely Planet. So take your time to spend weeked in last hidden gem in the Europe in company of experts and technical geeks.
+O GDG começou em Francisco Beltrão de uma maneira um tanto quanto tímida, mas agora cresce cada dia mais em qualidade, nossa primeira grande ação foi a I/O Extended 2015 e pretendemos fazer a 2016 com uma maior estrutura e qualidade, devido aos aprendizados que tivemos com eventos ao longo desse ano.
 
-So should you also be excited? Well yes... and here's why!
+Um desses eventos que ajudamos e nos deu uma aula de qualidade foi o [GDG DevFest Sul 2015](http://devfestsul.com.br/).
 
-* **Attendance**: we're expecting over 350 attendees
-* **Topic**: more than 48 hours of pure Google technologies 
-* **Date**: 24-25 of October, expect hackathon and workshops on a first day and conference on the second
-* **Venue**: Kinopalace Cinema - for a first time we'll make technical event in real cinema directly in the heart of the ancient city of Lviv
-* **Speakers**: we're in the process of finalising the list of speakers
+E não apenas ele, mas eventos como o Google Community Summit foram de suma importância, mostramos Francisco Beltrão para o mundo e o mundo nos mostrou o que poderia contribuir, o que nos fez pensar e colocou-nos em perspectiva para uma nova fase.
 
-but we've already secured a first batch of experts:
+<iframe width="100%" height="400" src="https://www.youtube.com/embed/1-SdhFDhu5U" frameborder="0" allowfullscreen></iframe>
 
-* **Dawid Ostrowski** - Developer Relation from Google, who excited about cloud technologies<br>
-* **Mateusz Herych** - Android GDE and GDG organizer from Krakow<br>
-* **Dmytro Danylyk** - developer, blogger, speaker, author of open source 1000+ star libraries <br>
-* **Roman Mazur** - speaker on various international conferences like Droidcon Eastern Europe and Ankara Developer Days<br>
+Esta nova fase  começa com esse evento de hoje, dia 15/12/15, The Chrome, the Computer Vision and the Angular, que também é o evento de encerramento deste ano.
 
+![The Chrome, the Computer Vision and the Angular](/img/posts/hello/chrome-cv-angular.png "The Chrome, the Computer Vision and the Angular")
 
-More details about speakers, DevFest Hackathon and Lviv will appear in subsequent posts, meantime like us on [Facebook](https://facebook.com/GDGLviv), follow on [Twitter](https://twitter.com/intent/user?screen_name=GDGLviv), add to circles in [Google+](https://plus.google.com/b/102444623953913144164) or subcribe to our [mailing list](http://gdg.us5.list-manage1.com/subscribe/post?u=9fc8aa205b0521b5f05fc8e1e&id=ae0fb459fc) and [RSS feed](http://devfest.gdg.org.ua/feed.xml) in order not to miss any cool stuff about festival.
+Mas, por que estamos tão felizes e estamos fazendo um evento de abertura que também é encerramento? Bem, é por que estamos preparando um bombardeio de conteúdo para vocês em 2016!
+
+Aqui vão algumas das ações para o ano que vem:
+
+* **Google I/O Extended 2016**: Devido ao grande sucesso do ano passado faremos novamente, maior e melhor!
+* **It's Hackademinc**: Codelabs e grupo de estudo de Polymer de 15 em 15 dias.
+* **Angular Codelabs**: Estudaremos Angular de 15 em 15 dias, alternado com o codelab de Polymer, fazendo com que tenhamos evento toda semana!
+* **Google Cardboard**: Estudo de Cardboard para uso em VR! (Alias, se você desenvolve jogos estamos com vagas abertas!).
+* **FB Smart City 2020**: Grupo de estudo para otimização e transformação de Francisco Beltrão em uma SmartCity, melhorando a cidade em que vivemos com tecnologia!
+* **Palestras e eventos temáticos**: Além das conferencias, estamos planejando diversos eventos ao longo do ano que ainda não podemos contar para vocês (hehehe)!
+
+E não apenas isso, iremos ter eventos relacionados e vamos encorajar iniciativas como:
+
+* **Women Tech Maker** - Estamos em busca de uma programadora ou designer que possa liderar a iniciativa!<br>
+* **Empreendedorismo** - Para tornar nossos empreendedores tecnologicamente conscientes.<br>
+* **Tech Talks** - Indo além da programação, do uso consciente da tecnologia. <br>
+
+Mais detalhes? Nos acompanhe nas redes sociais: Dê um like no [Facebook](https://www.facebook.com/GDG-Francisco-Beltr%C3%A3o-449389415208060/), siga-nos no [Twitter](https://twitter.com/gdg_fb), adicione nos Circles do [Google+](https://plus.google.com/102178819169878551962) e faça parte do grupo do  [Meetup](http://www.meetup.com/pt/GDG-Francisco-Beltrao/) e não perca nada.
+
+<img class="img-responsive feature-image" src="{{ site.baseurl }}/img/posts/hello/hello.jpg" style="display:none">
