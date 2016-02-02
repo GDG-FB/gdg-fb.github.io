@@ -38,7 +38,7 @@
   rockstar: true
 
 -
-  id: 3
+  id: 4
   name: "Você"
   surname: " "
   company: "Venha fazer parte!"
@@ -47,4 +47,19 @@
   thumbnailUrl: placeholder.png
   rockstar: true
   social:
+-
+
+  id: 3
+  name: "Ivo"
+  surname: "Batistela"
+  company: "GDG FB"
+  title: "Volunteer, Angular master"
+  bio: "."
+  thumbnailUrl: ivo.jpg
+  rockstar: true
+  social:
+    - {name: "google-plus", link: "https://google.com/+IvoRobertoBatistela"}
+    - {name: "twitter", link: "https://twitter.com/byivo"}
+    - {name: "github", link: "https://github.com/byivo"}
+    - {name: "site", link: "http://byivo.rocks/"}
 -
