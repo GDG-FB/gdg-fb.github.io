@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Study jams and Codelabs para todos os gostos!"
-date:   2016-02-03 08:00:00
+date:   2016-02-01 08:00:00
 isStaticPost: false
 ---
 
