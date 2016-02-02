@@ -23,7 +23,6 @@
     - {abbr: "GDG", title: "Google Developer Group"}
   social:
     - {name: "google-plus", link: "https://google.com/+MarlonScalabrin"}
-    - {name: "github", link: "https://github.com/MarlonScalabrin"}
     - {name: "twitter", link: "https://twitter.com/marlonscalabrin"}
     - {name: "github", link: "https://github.com/marlonscalabrin"}
     - {name: "site", link: "http://invent.to/"}
@@ -37,4 +36,18 @@
   ribbon:
     - {abbr: "GDG", title: "Google Developer Group"}
   social:
+-
+    id: 2
+    name: "Ivo"
+    surname: "Batistela"
+    title: "Volunteer, Java Quarterback"
+    thumbnailUrl: ivo.jpg
+    team: true
+    ribbon:
+      - {abbr: "GDG", title: "Google Developer Group"}
+    social:
+        - {name: "google-plus", link: "https://google.com/+IvoRobertoBatistela"}
+        - {name: "twitter", link: "https://twitter.com/byivo"}
+        - {name: "github", link: "https://github.com/byivo"}
+        - {name: "site", link: "http://byivo.rocks/"}
 -
