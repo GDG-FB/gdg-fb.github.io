@@ -15,11 +15,8 @@ Segue a ordem em que foram apresentadas, em breve disponibilizaremos vídeos aqu
 
 <b>Visão Computacional - Por Marlon Scalabrin (@marlonscalabrin)</b>
 
-<a href="https://docs.google.com/presentation/d/13ly8NQ17zP8XVIkrnu1i9cKmdMgp9wi26h6nW9VOhL0/present?slide=id.p4">  
-CLIQUE AQUI PARA ABRIR A APRESENTAÇÃO!
-</a>
-<quote>Iremos embeddar aqui o mais rápido possível :/ </quote>
 
+<iframe src="https://docs.google.com/presentation/d/13ly8NQ17zP8XVIkrnu1i9cKmdMgp9wi26h6nW9VOhL0/embed?start=false&loop=false&delayms=3000" frameborder="0" width="100%" height="420" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 <b>Chrome and Gold - Por Wellington Mitrut (@wmitrut)</b>
 
