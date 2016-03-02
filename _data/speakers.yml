@@ -58,8 +58,8 @@
   thumbnailUrl: ivo.jpg
   rockstar: true
   social:
-    - {name: "google-plus", link: "https://google.com/+IvoRobertoBatistela"}
-    - {name: "twitter", link: "https://twitter.com/byivo"}
-    - {name: "github", link: "https://github.com/byivo"}
-    - {name: "site", link: "http://byivo.rocks/"}
+      - {name: "google-plus", link: "https://google.com/+IvoRobertoBatistela"}
+      - {name: "twitter", link: "https://twitter.com/byivo"}
+      - {name: "github", link: "https://github.com/byivo"}
+      - {name: "site", link: "http://byivo.rocks/"}
 -
